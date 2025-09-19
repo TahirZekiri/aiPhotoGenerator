@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Stylist",
+  "description": "An AI-powered photo editing app that uses a reference image to style a product photo. Users can upload a style reference, a product image, and product details to generate a new, professionally styled promotional image. The app also allows for iterative refinement of the generated image.",
+  "requestFramePermissions": []
+}
